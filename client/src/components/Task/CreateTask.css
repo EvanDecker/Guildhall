@@ -1,0 +1,36 @@
+.createTask {
+  display: flex;
+  flex-direction: column;
+  background-color: dimgrey;
+  width: 500px;
+  height: 198px;
+  margin-bottom: 20px;
+  padding-top: 4px;
+  border: solid 2px darkcyan;
+}
+
+.section {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  margin-top: 5px;
+}
+
+.createTask input {
+  height: 20px;
+  width: 375px;
+  margin-right: 10px;
+  padding: 0;
+}
+
+.createTask label {
+  font-weight: 500;
+  margin-left: 10px;
+}
+
+#createTaskButton {
+  margin-top: 10px;
+  background-color: darkcyan;
+  border: solid 1px whitesmoke;
+  border-radius: 0;
+}
