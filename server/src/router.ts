@@ -20,3 +20,5 @@ router.get('/tasklist', isLoggedIn, require('./routes/tasklistRoute.js'));
 
 
 module.exports = router;
+
+export = {};
