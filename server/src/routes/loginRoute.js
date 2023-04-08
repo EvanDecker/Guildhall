@@ -1,6 +1,6 @@
 const jwt = require('jsonwebtoken');
-const db = require('../../database/database.js');
-const dbqueries = require('../../database/dbqueries.js');
+const db = require('../database/database.js');
+const dbqueries = require('../database/dbqueries.js');
 
 const password = 'hello';
 const secret = '123'
