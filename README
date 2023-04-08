@@ -1,0 +1,6 @@
+To lauch the app:
+- cd server
+- npm start
+- open a second terminal
+- cd client
+- npm run dev
