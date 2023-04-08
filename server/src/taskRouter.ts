@@ -30,5 +30,3 @@ router.get('/all', require('./routes/taskRoutes/getAllTasksRoute.js'), (req:Requ
 
 
 module.exports = router;
-
-export = {};
