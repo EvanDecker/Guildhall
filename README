@@ -1,6 +1,8 @@
 To lauch the app:
+Frontend:
 - cd server
 - npm start
-- open a second terminal
+
+Backend:
 - cd client
 - npm run dev
